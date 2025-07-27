@@ -36,7 +36,7 @@ export function Contact() {
         <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-12 text-center">Get In Touch</h2>
         <div className="text-center mb-12">
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            I'm always open to discussing new opportunities, interesting projects, or just having a chat about
+            I&#39;m always open to discussing new opportunities, interesting projects, or just having a chat about
             technology. Feel free to reach out through any of the channels below!
           </p>
         </div>
@@ -69,7 +69,7 @@ export function Contact() {
           </div>
           <Button size="lg" className="bg-slate-900 hover:bg-slate-800">
             <Mail className="w-5 h-5 mr-2" />
-            Let's Work Together
+            Let&#39;s Work Together
           </Button>
         </div>
       </div>
